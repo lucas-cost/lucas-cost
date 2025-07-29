@@ -1,44 +1,60 @@
-<h1>Hi! I'm Lucas 🙋‍♂️</h1>
+# Lucas Costa | Desenvolvedor Back-End .NET ⚙️
 
-<p>
-Desenvolvedor Back-End com experiência sólida em .NET (4.5 a 8.0), APIs REST, mensageria com RabbitMQ, DevSecOps e sistemas bancários/financeiros de alta performance. Tenho forte atuação em Clean Architecture, segurança da informação, CI/CD, testes automatizados e projetos com grande volume de transações, incluindo integração direta com o BACEN (PIX, DICT).
-</p>
-
-<div style="display: flex; gap: 16px;">
-  <a href="https://github.com/lucas-cost">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-cost&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/lucas-cost">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cost&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-lucas-costa)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.lukascosta@gmail.com)
+[![Localização](https://img.shields.io/badge/Brasil-CE-00b300?style=for-the-badge)]()
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+## Sobre mim 💡
 
-<div style="display: inline_block"><br>
+Desenvolvedor Back-End com sólida experiência em .NET (4.5 a 8.0), mensageria com RabbitMQ, integração com sistemas bancários (BACEN/DICT/PIX) e foco em Clean Architecture, DevSecOps e CI/CD. Tenho paixão por construir APIs robustas, seguras e escaláveis para ambientes regulados e de missão crítica.
 
-  <!-- Back-End -->
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+---
 
-  <!-- Front-End -->
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+## Tecnologias & Ferramentas 🛠️
 
-  <!-- DevOps & Tools -->
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Azure DevOps" height="30" width="40" src="https://img.icons8.com/color/48/azure-devops.png">
-  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
-  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="SonarQube" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+### Linguagens
+![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</div>
+### Frameworks e Bibliotecas
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat-square&logo=entity-framework&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Windows Forms](https://img.shields.io/badge/WinForms-0078D7?style=flat-square&logo=windows&logoColor=white)
+
+### Testes & Qualidade
+![NUnit](https://img.shields.io/badge/NUnit-800000?style=flat-square&logo=nunit&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Testes de Integração](https://img.shields.io/badge/Testes%20de%20Integração-6A5ACD?style=flat-square)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Mensageria & Monitoramento
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+## Ferramentas 🧰
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Dependency-Track](https://img.shields.io/badge/Dependency--Track-003366?style=flat-square&logo=dependency-track&logoColor=white)
+
+---
